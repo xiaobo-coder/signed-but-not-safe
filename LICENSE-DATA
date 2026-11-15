@@ -1,0 +1,11 @@
+Data and documentation license
+
+The data in this repository (data/: task banks, per-root results, gate and GOSPA results, run metadata and the
+reference tables) and the documentation (README.md) are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 Xiaobo Chen, Genliang Zhu, Ziyuan Wang, Chu Wang
+
+Please cite the paper (see CITATION.cff) when using these materials.
+All task content is synthetic; no real persons, companies or transactions are represented.

@@ -1,0 +1,30 @@
+{
+ "pilot": {
+  "instrument_verdict": "PASS",
+  "final_format_failure_pooled": 0.0
+ },
+ "stage2": {
+  "chosen_cut": 0,
+  "freeze_manifest_sha256": "fb2a4e443bf744142278b6a7feb0d2c61f5841f2bb5033a515ed3284fb0b88cd"
+ },
+ "pse_eval": {
+  "gate": "pse-gate-v1.11",
+  "model_calls": 0,
+  "bootstrap": 10000,
+  "seed": 20261112,
+  "input_problems": []
+ },
+ "pse_observer": {
+  "verdict": "AGREE",
+  "roots_checked": 240,
+  "mismatches": 0
+ },
+ "pse_devgate": {
+  "verdict": "PASS",
+  "tasks": 6,
+  "model_roots": 24,
+  "model_refused": 14,
+  "mso_roots": 12,
+  "mso_signed": 12
+ }
+}

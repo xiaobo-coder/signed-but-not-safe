@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs (code and data)"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Xiaobo
+    affiliation: "University of Massachusetts Amherst"
+  - family-names: Zhu
+    given-names: Genliang
+    affiliation: "Accentrust & Georgia Institute of Technology"
+  - family-names: Wang
+    given-names: Ziyuan
+    affiliation: "Duke University"
+  - family-names: Wang
+    given-names: Chu
+    affiliation: "Accentrust & University of Illinois Urbana-Champaign"
+identifiers:
+  - type: other
+    value: "arXiv:2611.07483"
+    description: "arXiv preprint (v2)"
+url: "https://arxiv.org/abs/2611.07483"
+keywords:
+  - multi-agent LLM
+  - requirement integrity
+  - signed manifests
+  - prompt injection
+  - preregistration
+preferred-citation:
+  type: article
+  title: "Signed but Not Safe: Requirement Integrity in Multi-Agent LLM Handoffs"
+  authors:
+    - family-names: Chen
+      given-names: Xiaobo
+    - family-names: Zhu
+      given-names: Genliang
+    - family-names: Wang
+      given-names: Ziyuan
+    - family-names: Wang
+      given-names: Chu
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.07483"
+  url: "https://arxiv.org/abs/2611.07483"
+license: MIT
